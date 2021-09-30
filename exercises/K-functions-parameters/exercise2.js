@@ -1,5 +1,7 @@
 // Declare your function first
+function divide(three,four){
 
-var result = divide(3, 4);
+}
+let result = (3 / 4);
 
 console.log(result);
